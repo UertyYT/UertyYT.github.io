@@ -2,10 +2,10 @@
 
 [Мои ссылки](https://tapy.me/uertyk_)
 
-MDButton:
-    style: "elevated"
-    theme_shadow_color: "Custom"
-    shadow_color: "red"
+    MDButton:
+        style: "elevated"
+        theme_shadow_color: "Custom"
+        shadow_color: "red"
 
     MDButtonIcon:
         icon: "plus"
