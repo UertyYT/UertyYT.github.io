@@ -2,7 +2,17 @@
 
 [Мои ссылки](https://tapy.me/uertyk_)
 
-<md-button class="md-icon-button md-primary" aria-label="Settings">
-        <md-icon md-svg-icon="img/icons/menu.svg"></md-icon>
-</md-button>
-f
+MDButton:
+    style: "elevated"
+    theme_shadow_color: "Custom"
+    shadow_color: "red"
+
+    MDButtonIcon:
+        icon: "plus"
+        theme_icon_color: "Custom"
+        icon_color: "green"
+
+    MDButtonText:
+        text: "Elevated"
+        theme_text_color: "Custom"
+        text_color: "red"
